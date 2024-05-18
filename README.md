@@ -3,9 +3,9 @@
 
 <img align = "right"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **React, React Native**
 
-- 💬 Ask me about **HTML, CSS, Java**
+- 💬 Ask me about **HTML, CSS, C#, Javascript**
 
 - 📫 How to reach me **daoxuanphuong1208@gmail.com**
 
