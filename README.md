@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 💬 Ask me about **HTML, CSS, C#, Javascript**
-
 - 📫 How to reach me **daoxuanphuong1208@gmail.com**
 
 - ⚡ Fun fact **I think I am funny, friendly.**
