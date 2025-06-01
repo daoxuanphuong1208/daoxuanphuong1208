@@ -3,8 +3,6 @@
 
 <img align = "right"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
 
-- 🌱 I’m currently learning **React, React Native**
-
 - 📫 How to reach me **daoxuanphuong1208@gmail.com**
 
 - ⚡ Fun fact **I think I am funny, friendly.**
